@@ -1,0 +1,26 @@
+.hidden {
+ display: none ;
+}
+
+.cursor{
+    cursor:pointer
+}
+.non-cursor{
+    cursor:auto
+}
+
+.weight{
+    
+    font-weight: bold;
+
+}
+
+.norm{
+    font-weight: normal;
+
+}
+
+ul li {
+    margin: 10px 5px;
+    list-style: circle;
+}
